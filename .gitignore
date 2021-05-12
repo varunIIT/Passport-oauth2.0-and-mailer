@@ -1,0 +1,3 @@
+node_modules
+src/passportConfig/key.js
+src/controllers/mailerSetUp/key.js
